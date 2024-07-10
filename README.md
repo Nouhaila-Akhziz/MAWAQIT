@@ -41,7 +41,9 @@ After connecting the ESP32 to the WIFI network, access to the HABOUS prayer time
 
 Next, we cascade the 3 MAX7219 in series to control the display of the 6 prayers, translating into 24 7SEG digits. Each MAX7210 controls 8 digits since it operates with 16 bits.
 
-![Global Schema](https://github.com/aminal22/Mawaquit/assets/114859285/8bce068d-1656-406c-8b88-acf4cfcdac2c)
+<p>
+  <img src="https://github.com/Nouhaila-Akhziz/MAWAQIT/assets/114859285/d36c85eb-d1ec-4215-81e4-d69bb363d26c, alt="Capture d'écran 2024-07-10 133036",width="20"></p>
+
 
 
 ## Prayer Display Sequence

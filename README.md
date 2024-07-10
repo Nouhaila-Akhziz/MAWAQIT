@@ -55,6 +55,6 @@ The prayer times are displayed sequentially, starting with AL FAJR and CHOROK, f
 The SPI (Serial Peripheral Interface) is a data communication protocol used to connect external devices to a microcontroller. We used it between the microcontroller and the MAX7219 to control the LED displays effectively.
 
 
-##Rapport
+## Rapport
 
 [MAWAQUIT.pdf](https://github.com/aminal22/Mawaquit/files/14984303/MAWAQUIT.pdf)

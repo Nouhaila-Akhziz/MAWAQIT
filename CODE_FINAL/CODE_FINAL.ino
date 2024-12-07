@@ -21,7 +21,7 @@ void CongigMAX7219() {
     sendCommand(i, 0x0C, 0x01); // Shutdown: normal operation
     sendCommand(i, 0x0F, 0x00); // Display test: off
   }
-}*/
+}
 
 /*const int CS_PIN = 5; // Chip select pin for the MAX7219
  
